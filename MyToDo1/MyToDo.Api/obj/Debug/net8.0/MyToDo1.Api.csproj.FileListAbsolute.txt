@@ -1,0 +1,6 @@
+D:\VisualStudio\MyToDo1_backup\MyToDo1\MyToDo.Api\obj\Debug\net8.0\MyToDo1.Api.csproj.AssemblyReference.cache
+D:\VisualStudio\MyToDo1_backup\MyToDo1\MyToDo.Api\obj\Debug\net8.0\MyToDo1.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\MyToDo1_backup\MyToDo1\MyToDo.Api\obj\Debug\net8.0\MyToDo1.Api.AssemblyInfoInputs.cache
+D:\VisualStudio\MyToDo1_backup\MyToDo1\MyToDo.Api\obj\Debug\net8.0\MyToDo1.Api.AssemblyInfo.cs
+D:\VisualStudio\MyToDo1_backup\MyToDo1\MyToDo.Api\obj\Debug\net8.0\MyToDo1.Api.csproj.CoreCompileInputs.cache
+D:\VisualStudio\MyToDo1_backup\MyToDo1\MyToDo.Api\obj\Debug\net8.0\MyToDo1.Api.MvcApplicationPartsAssemblyInfo.cache
